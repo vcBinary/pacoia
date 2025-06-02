@@ -1,0 +1,62 @@
+"Good afternoon, we are the group 31, we have developed our research proposal on NLP and sentiment 
+analysis based mental health at both for well-being workplace. Sorry. Sure, in this moment, many of 
+us are thinking, what is this? Or for example, how do you use it? Or for instance, can be useful in 
+the future? Well, we will answer all those questions and for you that may come back over the next 
+few minutes. 
+
+First, I would like to ask a question. This question has three options. And I would like to quickly 
+raise your hands to share your opinion. The question is, you work hard on the earth, would you feel 
+your problem on a chatbot? The first option is totally, if the second option is maybe if there's no 
+one else to talk to Okay. And the third option is no way. Some things need to be done. Okay. You hate 
+the chatbot. Consider your response. We say that today demanding professional environment, Plogies 
+often have periods of anxiety, stress, and pressure to get high performance standards. In our proposal, 
+we use CVT techniques and to improve the mental health, we use NLP and sentiment analysis to get more 
+techniques. 
+
+Nowadays, there are three applications that use mental health, Salvo, the first application 
+is Weaver. You see the key and sentiment analysis. The second Salvo is replica. Use emotional sentiment 
+with the interaction with humans and the third chatbot is Wisa that combinesivity and mindfulness. 
+
+In our proposal we explain the emotion for Easter and sarcasm and we is a mind, the sentiment of humans 
+and the limitation in our chatbot. Now, my teammate, Frim Rando, will explain the innovation. 
+
+Now, I want to talk about what makes our chatbot new and different from the rest. not just another EA app, 
+why? Because we've designed this chatbot with the source key problems with current solutions. Our first 
+main idea is that it is designed specifically play at the workplace. Other chatbots like WeSR or WeBot 
+give general support, but our chatbot give support based on the workplace. It concerns about the privacy 
+and it uses information about company structures and different job types which make this chatbot... Sorry. 
+That means that the chatbot can offer different kinds of support depending on each case. And this is, this 
+isn't just a guess. Studies like the one in our proposal, so that help design it for certain planes usually 
+works better. Secondly, our solution is made to work with not to replace other solutions that companies 
+already have. It is like a private third step in which employees can, where employees who might be hate, 
+hate us to talk directly to human resources or therapists. chat box uses a method that are already proven 
+like CBT, which is cognitive behavioral therapy. It's very important that it has ways to find more help if 
+the user needs it. And finally, our third important new idea is that the chatbot is built on fair AI ideas 
+to reduce unfairness and protect privacy. in natural language processing, made sure conversations are private. 
+It also follows European Union regulation on data and privacy. And now my mate is... 
+
+Hello everyone. The main idea about this chatbot is to offer a confidential emotional support by employees 
+using natural language production or NLP and sentimental analysis. This chatbot a candidate as signs of stress 
+or anxiety, and has ability to interpret the natural language and respond with a personality. Okay, also 
+thought to a different others in mental health application is a tolerate for the workplaces. This means is 
+take account into account the employees roles and organizational context to provide a relevant support. 
+Other characteristic is that the Ditsatbot can work 24-7. This is very important because the employees or 
+the users can assist help at any time and without barriers of traditional mental health services. Now, let's 
+look at who work, the chatbot work, sorry. The system follows a modular architecture, which means each component 
+is dependent. It's very important because this allows easy update, accessibility, and more easy for for integrate 
+into a system platform like Microsoft Teams, Meet, and some ATC. Okay, in the graph we can see that when the user 
+sent message, its first process is a sentimental analysis engineer. In this step, the chatbot can detect the 
+emotional status that is a frustration or a signage. And this information, to continue, is passed to a conversational 
+model where the NLP is used to interpret the intent and create or generate an emphasis response. Another 
+characteristic that the chatbot has is can detect critical situations. When the chatbot search the situations, 
+it access to a referral protocol and give the users to have professional help. Other method is that user can 
+use is a repository of copying strategies. All information that chatbot use is a data privacy and transparency 
+for the employees and employers. Now the conclusions. 
+
+So to bring all together, we know that work can be stressful and that traditional ways of support aren't always 
+accessible and private. Our chatbot is discreet, meaning private, is smart and supportive and it tries to 
+understand workplace stress and problems. It is ethical and private by design. It's by for trust, so users 
+can trust the vote. And just to remind, this vote is not a replacement. It's like a new alley. The tool is 
+made to work together with experts. 
+
+So thank you for watching. watching and if you have any answer we'll be pleased to answer that."

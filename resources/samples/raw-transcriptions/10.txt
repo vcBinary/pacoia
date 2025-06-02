@@ -1,0 +1,75 @@
+"Did you know that burnout doesn't only affect health, it's also a financial problem. Right now 
+the tech industry is losing up to one trillion dollars per year and also 83% of the social developers 
+are right now overwhelming with stress which doesn't only cripple their productivity but also jeopardizes 
+their mental health. Now imagine a smoke detector. So imagine this mode detector only sets its alarm off 
+when they're building its entire covered by flames. This doesn't work, right? Well, that's how burnout 
+is usually handled in companies, late and also in a reactive way. 
+
+Good afternoon, I'm Christina Garcia from Group 27 here in the University of Politecnica de Madrid. And 
+today I'm on my classmates, Roberto and Juan. We would like to introduce you to a death burnout predictor, 
+which is a dry machine learning model that will predict these first brims of smoke before the fire blows 
+up everything. So, we will be talking to you about the motivation and the impact that Bernhardt have 
+nowadays, the existing approaches and why they fall short, our solution and how it works, and the ethical 
+consideration that we had to use for it. And finally the conclusions. So, moving on to motivation and impact. 
+As I said before, this is a really major issue and it's not just HR headache, since it's affect financially 
+to the IT department, losing $1 trillion per year. This happens because it burnout makes workers less productive 
+and also because they cannot handle that burnout and more than half of the software engineers end up quitting 
+their jobs. Also, one of the last surveys shows that 83% of the software developers suffer burnout at some point 
+in their career, which basically means that right now, workers are just chronically stressed and it's the norm 
+right now for working. This also happens because software engineers have lots of cognitive load, since they 
+have to manage the very different interfaces, lots of different tools, and they have to keep learning every day 
+different things. And also because they have to do lots of task switching, which makes them not have one focus 
+and don't know which is the priority. And this also reduces motivation, which leads to burnout. 
+
+And for the impact, we have that burnout makes each worker drop until at 23% their productivity, which makes them 
+have less futures in their sprees. And also, it costs money for the company since it increased at 40%. Their cost, 
+because as I said before, half of the engineers are quitting. So they have to hire more engineers than train them 
+again. And also, they are not losing money, but also talent. This also leads to another major problem, that it's 
+health, obviously, which because burnout can lead people to have anxiety, depression, and sleep disorders that not 
+only affects their productivity and cost, but also their health. Since these different health problems can, for 
+example, multiply by 2.6, the risk of having a heart attack. Before talking about the solution, we are going to 
+talk about the limit of the actual approaches. First, traditional surveys normally require for the worker to be 
+completely honest. And it's ‑‑ they can lie to not seem like they are fully depressed. Also they are normally a 
+little bit too late because they ‑‑ this discovers the burnout after it's already, the worker is already being 
+burned out. Then on the second note, we have the wellbeing programs like workshops or coaching done by a lot of 
+companies, but they are not done very frequently and cause a lot of time and effort. Thirdly, there's the retrospective 
+AI models. But these ones suffered the same as the first one. Normally they see the burnout after the worker is 
+already at its limit. So what we need is a system that alerts before it's already too late. 
+
+So I will be talking about our solution and in order for that I will be talking first about how we're going to train 
+our model, what it's based on, and after I'm going to talk about the actual architecture and how does it work internally. 
+So for the training part, we're going to train it on the MeshLag database that is one of the biggest and largest 
+databases in burnout service. They are only focused on the burnout. So there we have a lot of actual data that show 
+when a person is being burned out and how did it get there. Then for the architecture, we have four modules that start 
+from bottom to top. So in the collecting data module, it collects data, that its name says. From platforms, several 
+platforms such as Gita, collect tickets, that basically is used to control how many tasks are there assigned to the 
+person and how many are actually get done. Then Slack is a communication one, just like Microsoft Teams for example. 
+And GitHub is used to commit code. So you know how much is that person working, apart from the tasks, that is just 
+like being completed or not. Then the cleaning data module, what it does is it anonymizes the data. So that person, 
+so it takes just like what is happening to person and we don't know who it actually is. And it also prepares all the 
+data, it synchronizes it and it prepares it in structure datasets so the next modules can keep on working. The metrics 
+calculation module, what it does is it takes all the data and it transforms it into some simple ratios such as how 
+many tasks per week is it completing, how many tasks does it have pending doing over time? How much messages is it 
+getting? Who is it getting? Who are those messages from, for example? Then all that data, all of those metrics, go 
+into the analyzer. And then using, for example, two algorithms that are the random forest algorithm, that is just 
+a machine learning one that are already pre-tuned, the random forest. and SVM that is a support vector machine. 
+Some technical issues. But of the analyzer, basically what it does, it transforms all those metrics into a number, 
+from 0 to 100, for example. And so the company can actually say when it wants to be alerted. For example, an ex-company 
+maybe want to be alerted when the burnout indicator reaches 0.7 or 0.8 or 0.9. And when that indicator, when it reaches 
+that point, then HR is going to be alerted that this person is having some burnout symptoms, so they know and they can 
+act in consequence. As being sensible data as your mental health or how much are you working, how is your productivity, 
+there's some ethical matters in consideration. The alert is only going to be receiving to HR. Because if, for example, 
+your boss receives your alert and he doesn't think that's important, it's going to make you even worse. Then it has to 
+run internally. Because if the data goes to another company and there's breaching the data, there's going to be a really, 
+really big problem. Also, so that the workers feel safe with who is taking the data and studying it. There's going to be 
+a complete anonymity. studying it. There's going to be a complete anonymity. First, we are going to occult the information 
+of the messages or what you are doing. It's only going to receive the tasks and you send a message or you receive the 
+message, but not the actual information. And it's going to be a number, but it's only going to be lift up when there's 
+the alert. 
+
+All in all, to recapitulate, the Dev Burnout predictor is going to be a number of different going to allow an early and 
+objective detection of burnout risk by combining behavioral data with ML models that are trained using real burnout cases 
+from Mars lag service. With With this, we're going to help teams shift from reactive to preventive support. This will lead 
+into an improvement in the well-being and productivity of the workers, also an improvement in the turnover. 
+
+So thanks for your attention. We would love to hear your question."

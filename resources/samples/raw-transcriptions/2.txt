@@ -1,0 +1,54 @@
+"I would like to thank you for... letting your time sleep with me and I am trying to present
+I Ismael my friend Carlos and my friend Daniel our app virtual urban sports league I have two
+questions the first is what do you need to play a game usually you need one thing one place to
+play players and then you have a perfect match but what if you don't have the motivation like
+the place or like the players eh we are trying to provide you to a solution to maybe brake your
+chains brake the chains of of their sloth that beans you in house and doesn't let you go out go
+out and play with your friends with some unknown people well first eh I will pick about why people
+doesn't go out to you I don't know eh to play basketball to play football um maybe they have a 
+little voice that ask that tells them no no no no today maybe tomorrow but eh with our app with 
+three short words we can maybe not convince you but at least em get you a based to do it the first 
+is to who the where and the why the who is who will play with you maybe you don't hand that friends 
+that are athletic or maybe you don't hand friends or maybe I don't know the every people is a 
+worm em maybe um you can use tinder and ask a match oh why if we play basketball on a regular 
+schedule and the chances of that working are very slim 
+
+but with our app that helps you find a partner and to our symbol a team maybe you can have a starting 
+point then the where maybe you don't play because you don't have a facility oh you don't have a... 
+football... a a street to... kick a ball with our app you can use the city council's APIs to eh 
+let to make reservations and make sure you don't get um you don't you aren't leave without a place
+to play and then is the why why will you play maybe just to get fit maybe just to have a good time 
+but why if you got that um the adrenalin of victory the humbling of defeat then our app helps you to 
+make and manage tournament and urban leagues eh and of course you need to find your arbiters your 
+everything but our app helps you to make a not so rigid schedule that maybe um at least force you 
+to... go out and then well my friend Carlos will keep up with the technical details 
+
+okay so em our solution is fairly simple we just do what you used to did on paper but we do it 
+digitally so eh okay so eh really fast hahaha em we give players the ability to make teams and 
+the teams to the ability to make tournaments which then they can create matches on but that is 
+not it we also give them the ability to book facilities which then used to be a mess but now it's 
+really easy with our app we centralize the... ability for you to to make eh reservations on facilities 
+and how do we do it okay if this is simple the technical difficulties are literary none because 
+we are going to use eh existing web technologies that have years and years of background and usage
+so... it's really... a known ground we'll say eh and the scheme is really simple also we have eh 
+and eh em an authentication platform which you can go in with your google or facebook account or 
+whatever then em you go into the frontend and make em your teams if you are a player you can make 
+tournaments assign prices or whatever and of course you can make matches that can be also independent 
+from the tournament if you just want to play a match em all of that is powered by a backend or a 
+server that creates the tournaments with a simple draft algorithm and em two APIs one for our 
+database where we store our users our application data and another one that goes directly to the 
+sports facilities council servers and... em allows us to book your facilities and it's this as 
+simple as it gets the application technology is really simple 
+
+so now well our potential user are the city councils that can allows us to manage their reservations 
+of the city the sports brands they can build loyalty and make themselves known by creating sponsored 
+competitions with prices and merchandising and the most obvious are the professional athletes that 
+can manage your own competitions and find other people that practice your favorite sports eh 
+
+as we have seen there are no applications that are capable of working with several sports allow 
+you to manage allow you to manage your own competitions reserve sports facilities and find partners 
+
+our application can do it as we have seen eh we do not use any new technologies it can be implemented
+quickly and it's very easy the idea you find the partner with whom to practice you can create or join 
+a team and participate in create your own competition and for that I encourage you to invest in 
+our application thanks for your attention" 

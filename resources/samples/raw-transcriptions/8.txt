@@ -1,0 +1,76 @@
+"Okay, hello. So imagine you're scrolling through X and you come across this post. 
+Real Madrid is signing up Maria Gomez, 82 years old. So obviously this is fake. 
+Obviously this one is not real. But now imagine the next news you see is about 
+political speech or a scam. A scam that could affect you and people you know in a 
+real matter. 
+
+So this one is a problem that we need to make a solution for. It's a problem that is 
+growing and it's really important that we introduce our system. We are group 19, we're 
+introducing a cloud-based real-time deep-fake detection in social media, more specifically 
+on X. We are Antonio Marcos and myself in Nathiel, and today in our presentation we're 
+going to go over a few key points. 
+
+First of all, the motivation and why is it a current threat and the current solutions available. 
+Next, we're going to speak about the innovation of our approach and how we're going to target 
+those gaps existing in the current solutions and why is it better our approach. Next of that, 
+we're going to speak about the description and the architecture of the system. And last of all, 
+the user perspective of the system and the future work. The future work is including the limitations 
+and the solutions that we may implement to address this. So next my colleague Marcos is going to 
+explain why is it a current threat that defects are growing at such a fast pace and we're going 
+to explain it with statistics and facts. 
+
+Nowadays, manipulated media, it's a real problem because it can change people's mind, people's opinion 
+and it can affect indecisions. In this picture, we can see that deep fakes are all around the world 
+and they are used for a lot of scams. For example, in Philippines and Vietnam, there are 3,000 to 4,000 
+documented cases that are used to cheat people. In this slide, we can see that the existing solutions 
+don't cover all of our contents. For example, in reality defenders that is used by the government covers 
+real-time detection, sonics but it isn't implemented in cloud. Now Antonio is going to tell us how we 
+have implemented this content in our method. 
+
+So our model, our system is not just advanced. It is also scalable, reliable, flexible and ready to use 
+in real time and in real life. We have used to train our models some large datasets that are made, that 
+have been made with reliable sources such as institutions and universities. As an example, I can say DeepFake 
+Detection, ThelepDF and Face4N6++. These datasets contain some high quality images and videos that have been 
+used to train our models. so that the model can say if a video or an image is fake or not. It also includes 
+some low-quality videos and images so that if the user is watching some low-quality content, it will also 
+function correctly. We have also used, well, it also is updated with the latest deepfake AI generators because 
+it is updated with real-time data that collects when the user uses the ex-social media. Then I'm going to make 
+an analogy so to explain how the system is made. It is like a human body. It contains vision to collect the data. 
+It has intelligence to see if a business take or not with our CNN model is deep learning. is deep learning. 
+It is also called a convolutional neural network. It also has coordination with confederated learning nodes. 
+And it has some memory with the blockchain loading. 
+
+So let's see how it is this architecture function. It first get the data with the data injection. So a user 
+watches some video or image in the inX, and then this data will be sent to our CNN model. The CNN model will 
+determine if it's fake or not. If then it will connect to our confederated learning nodes. So it will have 
+the last decision to validate if it's fake or not, and it will consult the blockchain if this video has been 
+stored or not. it hasn't been stored, it will store the data in the blockchain, so we will have a reliable 
+source and we will be able to track whether and who has launched this image or video. Now my main, Marcos will 
+explain the user experience. 
+
+Now imagine that you are in your favorite social media platform and you like eggs and you start scrolling and 
+you see images, videos or news but you don't know if this is real or not. With our system you can see in the 
+right corner that it tells you a score that tells you that is a defect or not. isn't only a percentage. It is 
+also a way to verify if you can trust the content you are watching or not. We have found some limitations. The 
+first limitation is that deepfakes change always so we have to update our system daily. The second one is that 
+real time detection can expose user data. So we have to do a strong privacy policy to our users. And the last 
+one is that low quality videos and videos with text are harder to identify if they are fake or not. Now Ignacio 
+is going to tell us how we have these limitations. 
+
+Okay, so we can see that this is an idea, an idea that we need to develop. With these limitations we can see that 
+there are possible solutions to implement as future work. So for the future work, for each of the limitations that 
+my colleague said, we need these three solutions among others. First of all, we need to implement adaptive learning 
+to keep up to date with the latest ways to create defects and be able for our users, for a system, to be sure that 
+our predictions are right. And next of that, to address the low quality image and text, we will also need to train 
+our data better and more consistently with low quality images, with images that contain text, so it's more of a 
+flexible system that you can trust in any context. And last of all, and I think this one is one of the more important 
+ones, is as we do real time screening of our users X platform, we need to really develop a privacy policy because 
+so our user knows that their data is being used as an intelligent and safe way. 
+
+So as a conclusion, what do we have? We have a system that is cloud-based, so computationally efficient, real-time, 
+with an updated model and user-friendly, that basically tries to solve all the gaps that we cover, and we talked 
+about in the current solutions. So with this system, the trust of the user is always better, and you can finally 
+trust everything you see in social media with a percentage score. So next time you see Maria Gomez, 82 years old, 
+signing up for Real Madrid, maybe you will know that it's obviously fake. 
+
+So thank you for your attention, and we will be happy to answer any questions."

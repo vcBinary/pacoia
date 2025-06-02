@@ -1,0 +1,64 @@
+[project]
+name = "pacoia"
+version = "0.0.1"
+description = "Plataforma Automatizada para la evaluación de Comunicación Oral en Inglés Académico"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio==5.26.0",
+    "librosa==0.11.0",
+    "torch==2.7.0",
+    "transformers==4.51.3",
+    "huggingface_hub==0.30.2",
+    "python-dotenv==1.1.0",
+    "numpy==2.2.5",
+    "matplotlib==3.10.1",
+    "textstat==0.7.5",
+    "lexicalrichness==0.5.1"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "mypy"]
+
+[tool.ruff]
+target-version = "py39"
+lint.select = ["ALL"]
+lint.ignore = [
+    "D100", 
+    "CPY001", 
+    "D103", 
+    "INP001", 
+    "S105", 
+    "E501", 
+    "D107", 
+    "D102", 
+    "D101", 
+    "FA100", 
+    "TRY300", 
+    "PLR0915", 
+    "PLR0914",
+    "FURB113",
+    "D203",
+    "D212",
+    "PLR0912",
+    "RUF003",
+    "ISC002",
+    "PLR0913",
+    "PLR0917",
+    "SIM117"
+]
+fix = true
+cache-dir = ".ruff_cache"
+include = ["*.py"]
+preview = true
+line-length = 120
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = "."
+python_files = "test_*.py"
+
+[tool.mypy]
+explicit_package_bases = true
+ignore_missing_imports = true
+extra_checks = true

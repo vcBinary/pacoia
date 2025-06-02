@@ -1,0 +1,75 @@
+suggest
+indicate
+imply
+appear
+seem
+assume
+hypothesize
+propose
+estimate
+infer
+speculate
+presume
+predict
+posit
+argue
+advocate
+consider
+question
+interpret
+recommend 
+may
+might
+could
+can
+would
+should 
+will
+possibly
+probably
+likely
+apparently
+arguably
+conceivably
+theoretically
+presumably
+seemingly
+tentatively
+generally
+typically
+occasionally
+often
+frequently
+potentially
+comparatively
+relatively
+evidently
+reportedly
+marginally
+slightly
+broadly
+partially
+it is possible that
+it is likely that
+it may be the case that
+there is some evidence to suggest that
+there appears to be
+there seems to be
+one could argue that
+it can be assumed that
+this may be due to
+this might indicate that
+a possible explanation is
+it could be interpreted as
+the data suggest that
+to a certain extent
+within limits
+in general terms
+with some reservations
+not all
+in some cases
+io some degree
+to a lesser/greater extent
+among certain groups
+it is not always the case that
+while this may be true

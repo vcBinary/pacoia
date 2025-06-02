@@ -1,0 +1,84 @@
+"... Okay so we are group four the only thing I have here worth worth mention is that Alfonso 
+is not with us because is a bit sick at his house so I'll do his part as well okay so our solution 
+is a student a student guard for the control and monitoring in class for exams mostly so this 
+comes from a big problem which is lost exams eh with a bit of hope most of you haven't suffered 
+this having lost and exam or something lost paperwork but what if it actually happened to you as 
+we say in the student council lost exams are like taxes you don't care about them until they 
+actually happen directly to you okay so first of all we have to find what is a lost exam okay 
+what happens if you loose your exam or it disappears first of all according to UPM nothing 
+because it isn't defined there is no process no contemplation nothing on the issue and as well 
+what happens there there is no proof is your word against the professor's nobody know what happened 
+there 
+
+okay so there is a very easy solution for this which is a system's control right very easy we we 
+all have our cards very simple to use so how does this work UPM has has their control which depends 
+on professors checking your student card very easy checking your number with the DNI with your face 
+very easy right but imagine having to do that with two hundred and fifty students this makes the 
+professor check every single student wastes a lot of time on the professors's part also this is 
+completely optional professors do not have to do this what does that mean that that it isn't used 
+okay well obviously we are not the first ones to actually notice this problem some solutions have 
+been done in this school but they do not answer to the three most important problems which is first 
+of all lost exams current solutions do not prove anything they just prove that you were on the exam 
+but you didn't handed in who can prove that after that we have that that control is really inefficient
+professor waste a lot of time going each student one by one walking to all the single people imagine 
+estructura with five hundred students doing that with every single student that's a lot of wasted 
+time and also a third problem identity fraud imagine now that you were to retake programación uno 
+would you do the exam again for one of your friends if they do not check your card anyone could do it 
+right this leads to a lot of problems actually 
+
+so what is our solution very easy proof of deliverance  how does this work you check your student 
+card after you hand in your exam so if you hand in your paperwork then check in using your you 
+proof that you left your exam there so your responsibility ends there that's the university's 
+problem after that and what is our solution this red box very simple very small of course it's 
+not empty it has all the technology inside of it really simple to use and what does this have 
+first of all is very small okay really really small it's fast and easy to use all you need to 
+do is swipe it like this easy really simple where is this box situated if this worst in the 
+professor's table or for example lets take the most obvious solution of the professor were sited 
+here we just leave the thing right there just like that and when the student finishes his exam 
+he just hands in his exam and there is the paper and scans and he is good to go okay how does 
+this work as soon as you scan your card a picture pops up so that way you don't need to check every 
+student one by one as you scan your card your profile picture pops up and the professor checks 
+immediately if the same picture is the if the picture on the card is you so that way you can avoid 
+identity threads and lastly is uses available resources I mean supposedly all we all have this card
+which has NFC but on the other hand this thing is really cheap not much maybe three euros and you 
+can print your own cards which are NFC cards for three cents okay so after that I am going to leave 
+you with my friend Daniel which is going to show you how the prototype works 
+
+eh hello my name is Daniel Bermejo and I am going to talk you about the first prototype eh that 
+little red box it has an arduino nano and a RFID sensor to read the cards and of course the RFID 
+cards of the students eh in the red box we have an arduino program and in the computer a processing 
+program to read the data that generated the the arduino and the case is 3D printed so is very 
+cheap and it is very easy to modify if we change the hardware eh as we can see we can use a lot 
+of arduino boards eh the code will be the sam in all that boards and you we use here the arduino 
+nano so is only three euros is very cheap eh also the RFID sensor three euros very very cheap too 
+and of course the RFID cards if you buy a lot of them are around three cents per card eh here is 
+the eh software architecture in the arduino part we have arduino code eh in the computer a 
+processing code and they are communicated with a USB cable and here is the eh arduino prototype 
+case eh I printed it with my ender three with PLA plastic and it takes around one hour and a 
+halve and it's of course very cheap and I will show you a demo of the of the prototype okay so we 
+have here the this red box connected to the computer okay so we run here the program we swipe the 
+card and you can see my picture and of course it is imagine that is from yours Jorge when you 
+swipe it you can see his picture so is very fast and very easy to use 
+
+okay so now what does this actually bring us the advantages of doing this okay so first of all 
+it's really fast as you was it is immediate teacher do not have to waste their time that they 
+could be using answering your questions they can be seated doing their tasks and students do 
+not need to have their cards out and maybe break their concentration when they are doing 
+something really important also as well there is an immediate solution for lost exams since you 
+scan your card after your brought your exam in it's not your problem any more okay it it is up 
+to the professor department or whoever it is that may have lost or whatever happened to the exam 
+okay after that when you do that you're leaving a record of who is actually going there and 
+scanning you are leaving a database which is very useful for evaluation metrics to check up who 
+went to the exam who actually handed in the exam etcetera and last but not least is the identity 
+fraud is really simple as soon as you scan it your picture pops up check him check you okay all 
+fine you are set to go really simple really easy this can be used in very practically all 
+scenario exam projects practicas everything but the downside is that how many of you do actually 
+use that card I mean I use it for the cinema the student discount nothing else so if we are 
+going to use this product we will need to motivate people to actually bring their cards back 
+to the university and our current and last and last presentation our path forward so right now 
+as you have seen we we have a functioning prototype but the thing is to actually use it on 
+large scale tests our arduino nano is really small and to fit more code into it we will need 
+to develop a new pro prototype which is a little bit bigger like ten per cent or twenty per 
+cent bigger okay after that we evaluate the metrics is it working is it fast enough is it 
+actually useful and after that we just develop the new case the new scenario and we are set 
+to go okay that's all thank you very much"

@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    uses: ./.github/workflows/Build.yml
+  tests:
+    needs: build
+    uses: ./.github/workflows/Tests.yml
+  format:
+    needs: build
+    uses: ./.github/workflows/Format.yml
+  type-checking:
+    needs: build
+    uses: ./.github/workflows/TypeChecking.yml
+    

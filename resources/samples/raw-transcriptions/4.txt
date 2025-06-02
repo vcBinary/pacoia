@@ -1,0 +1,38 @@
+"About the technology that we have envisioned which is called hyper is a technology
+that what it does is em split the workload of any of any application between eh users
+of set application em what we are trying to achieve is something like this think of the
+ants as the users of of any application of any computer in need of eh extra computational
+power imagine you have a a low low standard computer from ten years ago and you wish to use 
+a computer application demanding greater computer power em one solution would be to buy a 
+new computer an another one would be to rent eh through a network the computational power 
+which is what we are offering em giving here is the power to collaborate and to and to 
+achieve greater things em so the need that we are trying to solve is the rising... the rising 
+trend to... for for users to to use em higher end applications such as em physics simulations 
+or computer games eh so if you need any any extra computational to power to increase the the 
+time of of of the the use you are giving the application em 
+
+hyper is gonna help you to do that and it it's the competition to some other technologies
+that are not free that are such as amazon web services that basically you can rent computer 
+power which is one of the services they provide so so what's new with hyper that doesn't that 
+you can't get with with any of these technologies is that it is free it is faster and it is 
+easy to use and Andrés is going to you how this is achieved 
+
+thank you so eh we want to connect your world eh but hyper is not a product itself is a 
+technology that we want to use so let's customize our connections and see how we can eh do 
+ourself eh networks to do the computations that we want for example there can be a university 
+network or one made out by eh providers of the actual solutions for eh cluster computations so 
+we have eh developing eh develop two systems the first one is a token system that will do is 
+a... the each user is going to have tokens that can exchange for computations so a user can eh 
+spend its own tokens to get faster computations just eh using it in the network that he eh forms 
+but also he can receive tokens by renting their their eh resources their devices resources so 
+eh be the reason eh because someone smiles today let's say eh we want that eh hyper is a 
+distributed network so eh every every member is going to serve their own resources with the rest 
+of the members the other system that we are going to.. to use is a caching system that is going 
+to leverage the the behavior of of this networks just by eh getting the the results stored and 
+that can be consulted again if there is an opportunity so eh for doing that we are going to split 
+the the queries that network has in smaller ones and eh that queries when they are solved are 
+going to be eh yep storing distributed databases that is allocated on the network eh so eh with 
+this with this eh system there is no need to compute the same query so hyper is going to be eh 
+our main product that let's eh the worlds be connected to share eh our resources so let's use 
+hyper"  
+

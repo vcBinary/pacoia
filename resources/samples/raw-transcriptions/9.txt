@@ -1,0 +1,69 @@
+"Hi, we are Group 22 and we are going to talk about real-time fatigue detection. 
+Nowadays, workers deal with a lot of mental pressure due to a lot of multitasking, a lot 
+of information and tight deadlines in their projects. This leads to a lot of mental fatigue, 
+a condition that causes a slowdown in responses, a lack of attention, and it decreases the 
+decision making choices. This is like, incremented because work schedules nowadays are fixed 
+by management, managers, decisions and fixed schedules and they are not centred in how workers 
+capacity vary during the day and this creates a gap between tasks difficulty and capacity in 
+workers. 
+
+Our research shows that simply monitoring on mouse movements and keyboard can detect on employees, 
+how they are dealing with this fatigue. Our project shows that with a standard computer device, we 
+can prevent all this fatigue in time. Despite all these things today in companies, They don't have 
+this type of devices. And they only have like expositions or works that reduce worker's stress, but 
+they are not specialized in real time factors. And this can provoke that workers reduce their capacity. 
+And now I'm my colleague Daniel is going to take it back. What? 
+
+To start with the mental fatigue detection, in real time, using digital signals, researchers have 
+tried different approaches. One common method is using wearable devices that detect wearable devices 
+that detect body signals, for example, rate of patterns. When these patterns change, it shows a reduced, 
+reduced the nervous system activity on stress and on tiredness. This shows their current mental state. 
+This is not a good approach to the problem, because it affects the comfort of the body. And also, they're 
+really good to wear each in a work day. Other common, other approach, approach, focus on type, on type, 
+on the keyboard type. Because a recent study shows that how everyone types shows how their current mental 
+state is. and as analyzing how the typing velocity is or pressure on pattern, it can detect if the employee 
+is tired or is tired or not. And this approach is good because it uses only a work input and not extra devices. 
+And also I drive in work-load management systems while promising and while providing work. usually focus 
+on giving the task to a base on a skill and based on a skill and previous previous activity rather than focus 
+on current mental state. Also we have to take care of the privacy because it's a survey It's a survey that 
+is 24% of the organizations that implement a good approach using privacy. Their employees improved in their 
+work. And now Alvaro is going to talk to you about innovation part. 
+
+Thank you. Now for the innovation part, our study aims to develop a fatigue guard. Fatigue guard is a system 
+focused on reducing the mental fatigue of the employees of a company by adjusting their workloads in real 
+time. These systems pretend to overcome the present problems of the methods that are used right now by 
+implementing a two computer system model. This is using the first one, one simpler model that analyze the 
+current data that is being sent to him. And the other one analyze the data through time and through each 
+individual. So analyzing their behavior over time. This system also has three main goals, which are to build 
+a robust detection system for the mental health, also building a system who can just adjust the workload in 
+real time, but also all these focus are wrapped around with a privacy and a transparent politics. transparent 
+politics. Also for the description part, this system has three main parts, which are the monitoring part, the 
+processing part, and the action part. In the monitoring part, as Daniel said, We are monitoring this, well, 
+this alerts could be like, he said, like the typing speed, like movement speed, all these who have been shown 
+to show mental tiredness. For the processing part, we have to make sure that all the data or the metadata, all 
+the metadata is removed so you can relate the data to employees. And we have to make sure that the quality of 
+the data is, we have to acquire a level of data by using some standard software tools like could be removing 
+the odd layers, like could be an uncommon movement of the mouse or an unusual type speeding. All of this ensures 
+a quality of the data to be sure. Now I'm going to talk about the privacy and the security of our system. 
+Starting this, I'm going to maybe make a metaphor that our system is like a party, a costume party. It knows 
+that there are persons, how they dance, how they move and analyze them, but it doesn't know which person it is. 
+We are doing this making persons anonymous, adding some noise data that doesn't change the result but make it 
+better, worse to know which person is making the movements. It also uses a homomorphic encrypted that it can be 
+analyzed without the encryption. This model redistributes our workload. detecting the fatigue. It has a multiple 
+level of AI driving that selects which type of fatigue do you have. And in order of that, with some rules, it 
+selects the allocation of the tasks where you are going to work. Then obviously it needs some feedback of the 
+users in order to improve and continue to improve the system. 
+
+Our implementation is easier by making modular design that separates its AI in order to test and learn about 
+different AS and how they work. The privacy we have talked about, but I want also to add that there are some 
+actors controlled to the eyes and security auditors to talk about how it's going, how is the security, how it 
+could improve. In another implementation, we use transparency. The users can look forward the results, the 
+percentage of fatigue in order to just know, to know how we are getting that results and optional, pause that 
+monitoring or continuing with that in order to improve their work. And only we serve that results to the 
+managers that doesn't know which person is more fatigue or more bad can realloc that core cloud and make another 
+plan in order to gain more efficiency. As talked previously, obviously the feedback is so important in order to 
+get close to the person that otherwise we are using AI we need to be near and know about their feelings. The 
+first part of the feedback is easy, the questions, experiences, reviews and that's all. 
+
+To sum up, our research is not looking forward and just simple liai. We are using a system that looks for 
+realloc the work and reduce the fatigue. And thank you for watching. And that's it."

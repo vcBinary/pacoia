@@ -1,0 +1,49 @@
+"Okay hi everyone ome to the presentation of catchclo the application you need in your
+life so he is Ignacio she is Sara and I am Adriana and today I am here to tell you a
+story a lived the other day when I was on my way to work a girl stopped me to ask me
+eh Where I have bought the jacket I was wearing it was very uncomfortable situation
+because I didn't know that girl and also I didn't remember where I have bought that jacket
+so the girl eh cased me to the drove of my war so imagine how scary it was but fortunately
+nothing happened at the end so has something like this even happen to someone here come on
+raise your hands hahaha okay okay probably yes anyway um 
+
+with this worse experience I keep thinking
+about the trends in our lives and now a days exist lots of applications related with clothes and
+fashion trends and three of the most popular are twenty one button eh which is an app where users 
+post photos and tags the clothes to make it easier for other users to discover and buy that clothes 
+another one the hunt is an app where users post photo of items they want but they don't know of to 
+get it and other users help them to figure it out where to get it and the last one like to know it 
+eh is an app created by a girl who post photos of her outfits and you can buy the the outfits she 
+posts so these apps and the many other are fine but incomplete because people want to know want to 
+be able to know everything instantaneously so 
+
+with this obviously obsession with being fashion why not why not create what people want eh that's 
+why we show you the final solution catchclo eh it's available eh to everyone with a mobile phone 
+connected to internet eh due to the purchase are made directly on the application it's an important 
+requirement that the app eh only be used by adults or under the supervision of an adult despite this 
+requirement eh it's an app so easy to use that it's in decay for for every for anyone who wants to 
+be fashionable without moving to much eh it allow it will allow purchase in almost kind of of 
+payments for example paypal eh different kind of credit card visa mastercard and of course cash on 
+delivery how it use eh first of all you need to create an account eh you will have to load a correct 
+address complete a user profile that will be verified indicate full name date of bird an identity 
+document eh it won't it won't be necessary to keep payment method you can decided decide on each 
+purchase how to pay placing an order in the application is a simple as first of all you need to end 
+the camera to the garment that you see immediately you receive brand information about the capture 
+garment for example eh if you have seen a lacoste sweater our app return to you the brand the size 
+and the color the app offers similar results if there are the matches or you can buy directly eh 
+that this is the most noble thing of all 
+
+however why use our application what makes catchclo different which are our innovation the first 
+thing is the imagine recognition thanks to it we can when you see an outfit or garment that you like 
+you only need to focus your mobile phone it's that simple and you will receive all the information 
+of the garment this information includes eh the place when you can buy it eh size different color 
+everything you need the second thing is eh that catchclo eh just you buy eh the scanned clothes eh 
+trow our application you only need select the size and it will be sent directly to the direction you
+choose all of this is thanks to google clothes vision api em that allows us to recognize the imagine 
+and process them this imagining recognition is connected to a database we use big data to upload all 
+the information of the brands catalog including the imagine of the of the clothes that we will process 
+with google clothes vision api with this database we use to found the imagine scanned by the user and 
+it will send the information of the garment with this database eh also we also offer eh recommendation 
+to complete your outfit or show similar result that you scan the cloth you scanned so remember with 
+this you never annoy people in the street again or not knowing where to buy all the clothes that 
+fasting you catchclo is the application that you are looking for thank you for the attention"            

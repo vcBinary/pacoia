@@ -1,0 +1,113 @@
+"Good afternoon, we are group A team. I'm Pilar and I'm with Carlos, Noelia and Graciela. 
+I'm going to start with the introduction part, but first I would like to take a moment to 
+reflect. Have you ever been in a virtual meeting where someone says I'm fine, but their 
+voice makes you think they might not be okay? Or maybe you get a message or an email that 
+seems normal, but something about how it's written makes you feel like something is not right. 
+
+That is more common than we think in today's remote workplaces. We have moved everything online, 
+meetings, messages, everything, but stress has not disappeared. It just hides better. And if no 
+one notices it, it can get worse and start affecting not just the person, but also the rest of 
+the team. 
+
+That's why we started to think, could we use AI to detect those early signs? not just from what 
+people write, but also from how they sound when they speak. That's what our project is about. 
+We are combining natural language processing, no, natural language processing to analyze tests 
+and speech emotion recognition to analyze voice in order to detect stress early. 
+
+In our presentation, we are going to start with the background part, which means where this problem 
+is important and what has already been studied. Then we will explain what is new in our idea and 
+finally we will show you how our system works in real life. Now Noelia is going to start with the 
+background part. 
+
+Thanks for the introduction. My name is Noelia and I'm going to explain the background and some of 
+the research that supports our projects. In recent years, many researchers have tried to detect 
+stress by focusing either on what we're saying or how they say it. For example, Ismail in 2024 used 
+deep learning and natural language processing to study emotions in social media. Cian Erol in 2022, 
+focus on audio, on voice signals, using speech emotional recognition, showing that the way we speak 
+can say a lot about how we feel emotionally, especially when we are exhausted. But most of these 
+studies have looked at either audio or text, That's like trying to understand a movie just by watching 
+only the images or only listen to the audio. You miss the information. Some more advanced tools like 
+BERT and Distil BERT have improved on how we understand the in context. They are now common in sentiment 
+analysis. But these tools are mostly focused on broad emotions like joy or angry, not specifically on 
+stress. And when they are applied to real worst place communication, which are often informal, delayed, 
+and very context-driven events, they don't always perform well. A few were researchers such as Tripathi 
+Edol in 2019, have tried to combine both natural language processing and speech-emotional recognition. 
+They found that using both sounds together, text and audio improves accuracy. However, many of these 
+studies look at how this applies to work settings like emails or virtual meetings, where signs of stress 
+can be more subtle. 
+
+Despite all of these, detecting stress can be, no, detecting stress in workplace communication remains 
+a challenge. In real life situations like where language is often carefully worded, indirect, and shaped 
+by organizational cultures, people may hide or don't play emotional strains, especially on professional 
+environments, making it harder to identify. 
+
+So in summary, previous research have shown the potential of natural language processing and speech emotion 
+recognition separately and sometimes together. But not many have applied them to the context of digital 
+communication. That's the gap we are aiming to fill. And in the next part, my teammate, Graciela, We'll 
+explain the innovative solution we have designed to address this, this gap. 
+
+Okay, so as Noelia said, I'm Graciana and I'm going to be talking about the innovation part of our project. 
+Our project proposes building an AI system, as we said, that can detect stress in our workplace settings. 
+This is going to be done by analyzing text and our audio combined. This because we want to understand what 
+people say and how they say it. Meaning if we only see one of those separately, we risk missing signals 
+that could detect stress early on as people express stress in different ways depending on settings. 
+Approach uses deep learning to combine two technologies. the first technology being NLP or natural 
+language procession, which is helpful for our system to understand what is being written in context and 
+tone. And we also use speech and motion recognition, which helps us with context clues when speaking and 
+understanding the pitch and the tone that things are being said. The model is designed to learn patterns of 
+stress, of stress because not everyone expresses stress in the same manner in the same way. We need to learn 
+different patterns, different ways that it can be expressed. But this part is going to be explained by my 
+partner Carlos later on. We're still going to talk about the innovation part of our project. What makes this 
+role innovative is not that we look for emotions such as angry, happy. We look for stress in one setting. 
+We only look for that. We don't look for more things. This is important because nowadays, workplace settings 
+have transformed to digital and a lot of people work from home since remote work has been more prominent 
+since COVID. This makes work very personal. We don't know how other people are feeling, what our colleagues 
+are doing, or what's happening with them. Meaning we can't help them as much as we used to be able to when 
+we went to the office to work. 
+
+Another innovative part on our research is that it is meant to work in a real workplace setting, meaning. It 
+is not in a lot of conditions like a lot of other models do. No, it is meant to work with a synchronous 
+communication, informal communication, and noise communication, which is what we actually use in a real 
+workplace. And the last part is our ethical concerns that can be arise with this. We don't want something 
+that people are afraid to use because it may be used against them. We want something that they can use to be 
+helpful. So what we've done is we are not storing data from people. We are using anonymous inputs and all 
+the data that has been used to train our system has been chosen in a way that it is not biased. So it can 
+actually help people and it is not something that they have to use because our company is much dating. 
+It's something that they want to use. 
+
+So in short, our system creates a realistic tool that they can use in a real workplace setting by commanding 
+what people say, how they say it. And it does so in a technical advanced way that is also a degree sound. 
+And now my partner Carlos is going to talk about the technically advanced way with Don Diz. 
+
+Thank you, Graciela. So yeah, now I'm going to talk about how the system actually works. Like my partner said, 
+we want to create an AI system that detects what people say and how they say it, meaning the context. 
+To explain this, let me walk you through the architecture. First the system starts when an input of a 
+work-related communication is given, such as an email or a recording from a meeting. Then it is parallely 
+analyzed. On the text side, we use distil-birth and birth, which are models to analyze, which are very good 
+for context in written form. And on the audio side, we use the Librosa, which is very good for neural networks 
+like like CNNs or RNNs to extract the audio features from audio. Then once they're both analyzed, we merge them 
+in a fusion layer, which outputs a stress score. Well, sorry, in the birds, we especially used for negative 
+wording, repetition, and overuse of punctuation to describe stress. And in Librosa, we wanna analyze the pitch, 
+the energy, and changes in tone. So once this is all combined in the merge, we give out a stress score from zero 
+to 100, and a message such as stress likely due to negative words and rising pitch. 
+
+To train our models, we're gonna use open datasets, such as the ones you see here, that combine interviews in 
+written form and audio form to distinguish the, emotions in different settings. Then we use Python for the 
+programming with libraries like PyTorch or TensorFlow to train the models and HuggingFace to load already 
+pre-trained models. Yeah, then Librosa to extract the other feature, like I said before. We pride ourselves also 
+on the user friendliness and privacy since it is going to be all wrapped in an API or web interface. So we 
+won't store any data. just data is inputted and then an output of the stress level is out and no storing involved. 
+Also in the future, we would like to add like a dashboard where we can track stress over time to, for example, 
+see if we see peaks in stress before deadlines or such things. Of course, our system isn't perfect. 
+
+We have our limitations because, well, a lot of people can hide stress very well in work environments. Also, 
+background noise and sarcasm from the audio meetings might interfere with the accuracy. However, our system being 
+both unwritten and audio forms, we believe that it's a good system. But also to improve it in the future, it might 
+be interesting to detect the facial expressions from these virtual meetings as well. And lastly, I'm gonna give 
+back to Bilal for the conclusion. 
+
+So to sum up, stress has not disappeared. it just hides in the way we speak and write. And in order to find it, 
+our system uses AI to detect those hiding signs of stress by looking at both what people write and how they say 
+it. We believe that our system will be useful for companies to take better care of their teams and to create a 
+healthier work environment. Hi, sorry. Thank you for your attention and your time. And if you have any questions 
+or doubts, we will be happy to answer. Thank you"

@@ -1,0 +1,75 @@
+"Good afternoon. Have you ever come across a sensational headline on social media only 
+to discover later that it was completely fabricated? How did it persuade you so quickly? 
+I'm Miguel and with my colleagues Carlos and Victor, we'll show you how combining explainability 
+and furnace makes for a great tool for users that can rely on. 
+
+Okay, let's discuss the roadmap for the next 10 minutes. First, we'll discuss why transparency 
+and fairness matter, both together, not just one or the other. Secondly, we'll explain our 
+solution that combines these two methods, Chapter 9, we'll explain them. And finally, we'll 
+show you some bias mitigation strategies that are to be made and our integrated dashboard 
+solution, this job, like an extension. 
+
+So, first of all, context. As you may know, in social media, it's driven by quicksales and viral 
+posts and fast content, where fake news really proliferates. So, what is exactly fake news? Well, 
+fake news is false information, intentionally false and fabricated, used to deceive people and 
+manipulate. And as you may also know, this information is really detrimental to society because 
+it fills the vision among groups. And also it undermines trust in factual information. So what 
+can we do about it? Well, there are some methods that use deep learning models and techniques that 
+often achieve around 90% of accuracy, which is really good. But they are black boxes. So the users 
+don't know the reasoning behind the verdicts of these AI models, right? OK. Next, please. 
+
+So for some background, earlier methods used simple techniques, such as simple keyword analysis and 
+this type of stuff. And they worked pretty good, but they were so basic that they lost the subtle 
+clues and patterns inside the text. So as AI progressed throughout the years, some more tools were 
+developed, such as BERT, which is based on deep learning. And it improved greatly the accuracy of 
+these AI fake news detection models. But it also came with a low interpretability. so users couldn't 
+really know why a decision was made. So then came line, which explains why a decision was made by an 
+AI tool and also shop with signs as you may read, each word or feature, a score, depending on how much 
+weight it had in the decision of the model. But these techniques and these models came with some bias, 
+which we don't want, especially if the data that they were trained on was unbalanced. So I'm going to 
+hand over to Carlos, who will explain us our solution that combines line and shop. 
+
+Thank you, Miguel. Our problem is the next. high accuracy doesn't alone trust, so a faster trust if 
+users cannot see why a decision was made. So our solution is the next. We integrate some explanations 
+directly in our classification pipelines. So every predictions comes with a rationale. What is SAPs? 
+SAP values borrowed from game cooperative theory. Each filter has assigned a payout. We are reflecting 
+its contribution. Then this sharp values. In this situation, every phrase or word is a filter. We can 
+use subvalues using a package from Python, Python call it, a subpackage, and then it's a subforce brought 
+visually how the words push the output towards fake in red or toward true in blue, aggregating these 
+results in multiple articles, yields and importance ranking, helping developers find a model behavior 
+and spot systematic anomalies. Next. What is LINE? Login to Redability with Lime. Lime creates perturbed 
+versions of a single article by masking or altering some words. It fits a simple surrogate model, typically 
+a linear regression. The result is a bar chart of top, positive and negative contributing words for that 
+specific prediction. This one of explanation, however, is invaluable for fact-checkers needing to understand 
+every single article verdict in depth. Next. Our end-to-end workflow. At first, step one, we wrote data 
+in-gestion. We wrote text prepossessing and tokenization. The second one is the model inference, in which 
+our fine-tune transformers generates some probabilities, step 3, explainability. SHAP computes a global 
+futures impact and LINE provides some, for instance, insight. And the final step, the dashboard, our user 
+interface surfaces both of them. This is implemented on Python using a HackingFace transformer combined with 
+Shop Online Libraries. In relation to the user benefit, the journalists and fact seekers But for general 
+Stanford stickers, this means a world-level explanation. They can see which phrases type the model decision, 
+enabling them to have an informed verification rather than having a blind acceptance. Now Victor will explain 
+how we ensure that our system is not only transparent but also I'm careful.
+
+Okay, thanks Carlos. Now, we're going to talk about algorithmic bias. Isosystematic, systematic, I don't know, 
+systematic tendency that cause a model to unfairly favor or penalize some specific groups. In fake news 
+detection and check biases, can be labeled articles from certain regions, political leanings or minority 
+voices more often than others. That's both unethical and productive. Okay, we used IVMs, AI toolkit to conduct 
+comprehensive audits. For example, like we see there, we compare false positive ratings across political 
+categories, as you know, left, center, and right. And then we calculate two metrics, disparate impact and 
+equal opportunity difference. These metrics count disparities. So then in the model, we can know where the 
+model the model might be systematically failing. Upon detecting bias, we deployed two techniques. The first one, 
+data reweighting. We adjust sample weights during training to ensure low represented groups contribute 
+proportionally to the loss function. Then the adversarial training, we used an adversarial network that 
+penalizes the model that relies too much on sensitive attributes, such as source domain and demographical 
+signals, and forcing it to focus on genuine linguistic patterns instead. This is the integrated dashboard that 
+we've made. First one, SHAP, that summarizes the top features. The second one is LIME, that explanation for 
+individual articles and on the right we have bias metrics alongside remediation logs. These unified views 
+updates in near real time, empowering both developers and end users to monitor effectivity and fairness 
+continuously. 
+
+Then concluding, our framework, Merge or Marry's explainability and reliable bias mitigation and that produces 
+an AI system that is accurate, fair and transparent. Looking forward, we plan to send this to multilingual data 
+sets and explore real time deployment on social media streams. 
+
+Thank you very much and if you have any questions, just ask."

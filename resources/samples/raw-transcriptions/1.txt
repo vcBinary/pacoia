@@ -1,0 +1,42 @@
+"TripAllin it's a platform that is going to change to way you plan trips it is going to be
+a platform that is is going to be beginning of your dream trip eh firstly we want to show you
+why TripAllin is necessary em tourism is one of the planet's largest industries it has been
+growing for sixty eight years and it is going to be growing for the next ones eh in fat in one
+point eight em sorry ah it is estimated to be one point eight billion tourists in twenty thirty
+which is the twenty per cent of the world population em we want to improve the the experience
+we want to improve the tourism by promoting local business by eh showing eh the the cheapest eh
+trips and... showing users the the much more possibilities well eh when was the last time you 
+planned a trip and you were lost or or you fair lost or not sure of what were you doing well we 
+want ot change this experience to.. this... this is TripAllin eh I explained why eh we're we 
+ideated this and now Nacho is going to explain how we are going to fo it 
+
+so... as Alberto have said as Alberto have said eh we want to eh we want to improve the customer 
+experience and we are focusing on three main points eh we need to be possible to plan everything 
+you want to in your travel in just one search in one query we want people to discover new 
+activities or... things they want eh things they want to explore or like and finally we want our 
+app to adapt your to your budget so if you have a lot of money it will so you expensive plans 
+and if you don't have money it will try to give you the best for the money you have 
+
+so how are we how it works we are combining two main core technologies web scrapping and cluster 
+computing eh web scrapping is a is a kind of a technology or algorithms which takes data from the 
+internet so you don't need eh an api or a partnership which another company to access their data their 
+data because you basically you are eh using their website and taking the data and cluster computing 
+em it's a technology which allows us to divide the workload for servers eh getting faster responses 
+and... eh improving the... user experience so when one user access TripAllin they input all the data 
+about what they want eh if they want a trip or they want to live an experience these kinds of things 
+so when they eh pre-search it goes to the main server and the main server decides which kind of 
+operations they have to perform like eh what website you want to scrap or... which languages they 
+are going to explore and divides the workload around all the servers which eh finally will they 
+make a response they will make it available to the main server and will send it again to the user 
+and... finally eh we want to be sure we can okay we can eh allow the user to make a unique payment 
+they want to eh they will be able to eh pay all the trip at once and it will support endless custom
+travel possibilities because using scrapping algorithms you are not limited to any kind of form 
+or input data and 
+
+in conclusion eh the objective of TripAllin is eh improve and raise international 
+tourism eh make it and easier one and easier one experience because now a days is horrible and 
+finally we want to encourage local business because now a days websites like um eh google flights 
+or more or more em wow eh this kind of websites which provides you with possibilities before your 
+plans eh use some... corn sources not small business which are invisible in the internet and we 
+want to change that and that's all that's TripAllin"
+  

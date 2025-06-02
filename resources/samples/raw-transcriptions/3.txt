@@ -1,0 +1,47 @@
+"Hello my name is Monica and this is my team Cesar and Pablo I am going to introduce you our idea
+BibliotecApp make sure you have a place to study as you know study is very important and with this
+APP you don't have any excuses to not study well look at this picture what does it inspire you in
+my view that inspires me the first one is how many times have you arrived at library and you have not
+found any free seat to study image the situation you are go at from from home with your backpack your
+motivation to study and you arrive and... oh oh not seat and... now what can I do come back home and
+watch the last episode of game of thrones no it's time to study and the second question is... how much
+time do you spend eh searching for the library that suit your needs 
+
+to answer this question I want to explain the current situation today to find a library people use 
+internet like google normally the first step is to introduce the name of the library or libraries 
+of Madrid and you select one of them and we can see the information of the library like address phone 
+number etc and below usually em google show a graphic related to the flow of people during the day 
+now I information mentioned above em firstly the information is not centralized why because the 
+information of each library is in different websites secondly the schedules are not updated during 
+exam periods and this can confuse people and finally the information about the flow of people is 
+very very limited is not real now my colleague Pablo is going to explain the innovation 
+
+thank you Monica so what can I... eh what can we... do for solve this problems first eh we are going 
+to install a... counting system named 3D alpha plus eh manufactured bet V counts in eh every library 
+eh then also we are eh to get updated schedules during period exams for example or another a normal 
+periods eh also we will have eh centralized all of this information from all the libraries and finally 
+you can filter this information eh okay eh now what eh what are the we what are we going to do with 
+all of this information eh we are going to show you detailed information of libraries for example 
+em the schedules or the location of each library and the most important feature is that you will see 
+in real time eh all the availability of the seats in in your eh library so you will never get to a 
+library and find that you don't have free seat eh and how it works okay first of all the sensors will 
+collect all the data from the libraries eh then eh it will communicate with a central system that
+stores and analyze the data and this data apart from the the people in the library is the location 
+or the schedules finally the information eh will be displayed eh in the app and the final users eh 
+of BibliotecApp eh will find the library that fits best their needs and now my colleague Cesar eh 
+will conclude this presentation 
+
+thank you Pablo the anticipating impact that we expect is that every kind of student of use this 
+application could be university students highschool students or anyone who wants a place to study 
+or a place to concentrate to read or whatever the path forward from now on consist of three phases 
+the first phase is to install all the equipment and the sensors in the entrance of the libraries to 
+so we can count all the people that are going in and out the second phase is the designing and 
+development of the central system that will respond to queries done by the users when when they want 
+to search som em libraries near or apply some complex filters and the third phase will be designing 
+the... and programming the web interface or the application even Android or IOS and 
+
+as we have said the expected potential end users are any kind of em students that don't want to waste
+too much time searching for a library and the conclusions of our of this project is that with this application we could 
+fit the needs of eh of any students that wants a place to study by making quick searches and finding a library near their location
+and providing accurate information like real time seat availability and.. em information about the schedules and be updated so
+any questions" 
